@@ -6,7 +6,7 @@ headers = {
 }
 
 payload = {
-    "model": "gpt-4-vision-preview",
+    "model": "deepseek-chat",
     "messages": [{"role": "user", "content": [{"type": "text", "text": "Hello, world"}]}],
 }
 
